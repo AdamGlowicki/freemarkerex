@@ -1,5 +1,0 @@
-repository\StudentRepository.class
-web\StudentServlet.class
-web\WelcomeServlet.class
-model\Student.class
-freemarker\TemplateProvider.class
